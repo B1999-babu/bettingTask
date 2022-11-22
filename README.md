@@ -43,7 +43,7 @@ Screenshot : https://drive.google.com/file/d/1FdYSolusRjDqbVkOTmxFnT2DoSD5q7uA/v
 
 6)http://localhost:8071/bets/post/message?msg=kafka message sent     This api will print the kafka message
 
-Screenshot
+Screenshot : https://drive.google.com/file/d/1yCHSBUe7Xl0OpMk5NARV6fcQIymPi4QD/view?usp=sharing
 
 
 
