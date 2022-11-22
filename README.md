@@ -4,6 +4,8 @@ First you have to paste the Json folder path in application.properties file  ( I
 
 Property name is =  file.upload-dir
 
+Screenshot link:  https://drive.google.com/file/d/1EYF6G4xeLXieQZsypN8_5rnNZBGI72v-/view?usp=sharing
+
 
 
 
