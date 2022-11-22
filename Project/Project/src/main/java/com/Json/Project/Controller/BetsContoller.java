@@ -88,5 +88,11 @@ public class BetsContoller {
 		return betsService.getBetsfrom(game, clientid, date);
 	}
 	
+	//This api will load the json file and insert records into database
+	@GetMapping("/loadJsonfile")
+	public Iterable<Bets> loadTheJsonFile(){
+		return betsService.loadTheJsonFile();
+	}
+
 
 }
