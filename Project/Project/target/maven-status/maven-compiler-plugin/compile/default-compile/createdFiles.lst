@@ -1,0 +1,8 @@
+com\Json\Project\Entity\Bets.class
+com\Json\Project\Repository\BetsRepository.class
+com\Json\Project\Controller\BetsContoller$1.class
+com\Json\Project\Service\Consumer.class
+com\Json\Project\Service\BetsService.class
+com\Json\Project\Service\Producer.class
+com\Json\Project\ProjectApplication.class
+com\Json\Project\Controller\BetsContoller.class
